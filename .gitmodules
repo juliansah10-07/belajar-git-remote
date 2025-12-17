@@ -1,3 +1,4 @@
 [submodule "scripts-js"]
 	path = scripts-js
 	url = git@github.com:juliansah10-07/belajar-git-submodule.git
+	branch = chack
